@@ -28,7 +28,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="left"
-         <!--       android:background="@drawable/shape_live_resolution_badge" -->
+        
                 android:ellipsize="end"
                 android:singleLine="true"
                 android:includeFontPadding="false"
@@ -48,7 +48,7 @@
                 android:layout_height="wrap_content"
                 android:layout_gravity="left"
                 android:layout_marginTop="@dimen/vs_5"
-    <!--            android:background="@drawable/shape_live_resolution_badge" -->
+  
                 android:ellipsize="end"
                 android:maxLines="1"
                 android:includeFontPadding="false"
@@ -84,7 +84,7 @@
                 android:id="@+id/tv_screen_display"
                 android:layout_height="wrap_content"
                 android:layout_gravity="right"
-    <!--            android:background="@drawable/shape_live_resolution_badge" -->
+  
                 android:orientation="horizontal"
                 android:gravity="right"
                 android:paddingLeft="@dimen/vs_0"
@@ -145,7 +145,7 @@
                 android:layout_height="wrap_content"
                 android:layout_gravity="right"
                 android:layout_marginTop="@dimen/vs_5"
-   <!--             android:background="@drawable/shape_live_resolution_badge" -->
+ 
                 android:ellipsize="end"
                 android:maxLines="1"
                 android:includeFontPadding="false"
@@ -643,7 +643,7 @@
                 android:layout_gravity="left"
                 android:maxLines="3"
                 android:ellipsize="end"
-     <!--           android:background="@drawable/shape_live_resolution_badge" -->
+    
                 android:includeFontPadding="false"
                 android:paddingLeft="@dimen/vs_20"
                 android:paddingTop="@dimen/vs_10"
